@@ -1,0 +1,89 @@
+/* TEXT/LABEL START */
+.login-title {
+    -fx-text-fill: white;
+    -fx-font-family: "Pixel Game";
+    -fx-font-size: 64px;
+    -fx-padding: 13 0 13 0;
+}
+.usernameLb {
+    -fx-text-fill: white;
+    -fx-font-family: "Pixel Game";
+    -fx-font-size: 24px;
+    -fx-padding: 10 0 2 0;
+}
+.usernameTf {
+    -fx-text-fill: white;
+    -fx-font-family: "Pixel Game";
+    -fx-pref-height: 50px;
+    -fx-background-color: midnightblue;
+    -fx-font-size: 20px;
+}
+.passwordLb {
+    -fx-text-fill: white;
+    -fx-font-family: "Pixel Game";
+    -fx-font-size: 24px;
+    -fx-padding: 10 0 2 0;
+}
+.passwordTf {
+    -fx-text-fill: white;
+    -fx-font-family: "Pixel Game";
+    -fx-pref-height: 50px;
+    -fx-background-color: midnightblue;
+    -fx-font-size: 20px;
+}
+.forgot-password {
+    -fx-text-fill: white;
+    -fx-font-family: "Pixel Game";
+    -fx-cursor: hand;
+    -fx-padding: 5 0 5 0;
+}
+.or {
+    -fx-text-fill: white;
+    -fx-font-family: "Pixel Game";
+    -fx-padding: 5 0 5 0;
+}
+/* TEXT/LABEL END */
+
+/* BUTTONS START*/
+.play-button {
+    -fx-font-family: "Pixel Game";
+    -fx-background-color: midnightblue;
+    -fx-border-color: black;
+    -fx-border-width: 5px;
+    -fx-text-fill: white;
+    -fx-font-size: 64px;
+    -fx-pref-width: 350px;
+    -fx-pref-height: 150px;
+    -fx-alignment: center;
+    -fx-cursor: hand;
+}
+.setting-button {
+    -fx-font-family: "Pixel Game";
+    -fx-background-color: midnightblue;
+    -fx-background-image: url("/image/buttons/setting-logo.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-size: 150%;
+    -fx-border-color: black;
+    -fx-border-width: 5px;
+    -fx-text-fill: white;
+    -fx-pref-width: 50px;
+    -fx-pref-height: 50px;
+    -fx-alignment: center;
+    -fx-cursor: hand;
+}
+.login-button {
+    -fx-font-family: "Pixel Game";
+    -fx-font-size: 24px;
+    -fx-pref-height: 50px;
+}
+.register-button {
+    -fx-font-family: "Pixel Game";
+    -fx-font-size: 24px;
+    -fx-pref-height: 50px;
+}
+back-button {
+    -fx-font-family: "Pixel Game";
+    -fx-font-size: 20px;
+}
+/* BUTTONS END*/
